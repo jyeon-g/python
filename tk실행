@@ -12,3 +12,5 @@ a.grid(row = 0, column = 0, rowspan = 2)
 b.grid(row = 0, column = 1)
 c.grid(row = 0, column = 2)
 d.grid(row = 1, column = 1, rowspan = 2)
+
+window.mainloop()
